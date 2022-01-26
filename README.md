@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jo</h1>
-- 🌱 I’m currently learning **Typescript**
+<h1 align="center">Hi👋, I'm Jo</h1>
+<h2 align="center">Software Engineer in NYC</h2>
+
+- 👀 Looking for new opportunities and a company where I can invest in.
+- 👩🏻‍🎓 Recent graduate of The Grace Hopper Program at Fullstack Academy
+- 🌱 Currently learning Typescript
+- ⛰ Contraversial: mountains over beachs always
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
